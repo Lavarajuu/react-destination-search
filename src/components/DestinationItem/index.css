@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.each-item-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items: center;
+  margin: 10px;
+  flex-grow: 1;
+  font-family: 'Open Sans';
+}
+.img {
+  width: 200px;
+  height: 200px;
+}
+.name {
+  font-size: 15px;
+  color: #0f172a;
+  font-weight: 600;
+}
